@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(void) {
-	//½Ç½À1
+	
 	int input_int;
 	float input_float;
 	
